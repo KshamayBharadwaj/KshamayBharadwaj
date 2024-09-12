@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kshamay10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshamay10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kshamay p bharadwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshamay p bharadwaj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kshamay-p-bharadwaj-192113299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshamay-p-bharadwaj-192113299" height="30" width="40" /></a>
 <a href="https://instagram.com/kshamaybharadwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshamaybharadwaj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kshamaybharadwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshamaybharadwaj" height="30" width="40" /></a>
 </p>
