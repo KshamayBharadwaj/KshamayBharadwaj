@@ -1,7 +1,5 @@
-[<h1 align="center">Hi 👋, I'm Kshamay Bharadwaj</h1>
+<h1 align="center">Hi 👋, I'm Kshamay Bharadwaj</h1>
 <h3 align="center">A dedicated coder from India with a deep passion for programming.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshamaybharadwaj&label=Profile%20views&color=0e75b6&style=flat" alt="kshamaybharadwaj" /> </p>
 
 - 🌱 I’m currently learning **Python,Kotlin**
 
@@ -23,5 +21,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshamaybharadwaj&show_icons=true&locale=en&layout=compact" alt="kshamaybharadwaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshamaybharadwaj&" alt="kshamaybharadwaj" /></p>
-
-
