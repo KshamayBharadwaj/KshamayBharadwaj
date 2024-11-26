@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshamay Bharadwaj</h1>
 <h3 align="center">A dedicated coder from India with a deep passion for programming.</h3>
 
-- 🌱 I’m currently learning **Python,Kotlin**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Artificial Intelligence/Machine Learning**
 
