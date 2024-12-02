@@ -27,4 +27,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KshamayBharadwaj&show_icons=true&locale=en&layout=compact" alt="KshamayBharadwaj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KshamayBharadwaj" alt="KshamayBharadwaj" /></p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=KshamayBharadwaj" alt="KshamayBharadwaj's GitHub Streak" />
+  </a>
+</p>
