@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=KshamayBharadwaj&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=KshamayBharadwaj&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
