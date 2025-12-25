@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshamay P Bharadwaj</h1>
 <h3 align="center">A dedicated coder from India with a deep passion for programming.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KshamayBharadwaj" alt="KshamayBharadwaj" /></a> </p>
+<p align="left"> <a href="https://github.com/KshamayBharadwaj/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KshamayBharadwaj" alt="KshamayBharadwaj" /></a> </p>
 
 - 📫 How to reach me **kshamaypbharadwaj@gmail.com**
 
