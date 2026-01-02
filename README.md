@@ -43,5 +43,5 @@
 
 ---
 
-### 🔥 GitHub Streak Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KshamayBharadwaj)](https://git.io/streak-stats)
