@@ -44,4 +44,4 @@
 ---
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KshamayBharadwaj&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KshamayBharadwaj&theme=radical)](https://git.io/streak-stats)
